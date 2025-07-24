@@ -4,7 +4,7 @@
 
 @layer utilities {
   .orange {
-    color: #e95a08;
+    color: rgba(233, 90, 8, 1);
   }
   .container {
     max-width: 1140px;
