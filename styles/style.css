@@ -80,4 +80,9 @@
       padding: 0 12px;
     }
   }
+  /* Footer Section */
+  .footer-section {
+    display: grid;
+    padding-left: 30px;
+  }
 }
